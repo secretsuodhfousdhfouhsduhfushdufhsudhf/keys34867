@@ -1,6 +1,3 @@
-Claro — aqui está **uma por linha, sem aspas, vírgulas ou código Lua**, pronta pra colar no GitHub:
-
-```text
 LKz34763548DFJ#@
 LKz92847563KLM$%
 LKz58394726NOP&*
@@ -53,4 +50,3 @@ LKz76284931BCD<>?,
 LKz12847365CDE|\
 KIEFER_KEY_REAlkz48537345
 ALMEIDA_KEY_REAlkz236452350987
-```
